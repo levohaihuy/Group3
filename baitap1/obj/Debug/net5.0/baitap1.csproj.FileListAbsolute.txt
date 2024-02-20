@@ -1,0 +1,16 @@
+D:\Resource\Code\baitap1\bin\Debug\net5.0\baitap1.exe
+D:\Resource\Code\baitap1\bin\Debug\net5.0\baitap1.deps.json
+D:\Resource\Code\baitap1\bin\Debug\net5.0\baitap1.runtimeconfig.json
+D:\Resource\Code\baitap1\bin\Debug\net5.0\baitap1.runtimeconfig.dev.json
+D:\Resource\Code\baitap1\bin\Debug\net5.0\baitap1.dll
+D:\Resource\Code\baitap1\bin\Debug\net5.0\baitap1.pdb
+D:\Resource\Code\baitap1\obj\Debug\net5.0\baitap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Resource\Code\baitap1\obj\Debug\net5.0\baitap1.AssemblyInfoInputs.cache
+D:\Resource\Code\baitap1\obj\Debug\net5.0\baitap1.AssemblyInfo.cs
+D:\Resource\Code\baitap1\obj\Debug\net5.0\baitap1.csproj.CoreCompileInputs.cache
+D:\Resource\Code\baitap1\obj\Debug\net5.0\baitap1.dll
+D:\Resource\Code\baitap1\obj\Debug\net5.0\baitap1.pdb
+D:\Resource\Code\baitap1\obj\Debug\net5.0\baitap1.genruntimeconfig.cache
+D:\Resource\Code\baitap1\obj\Debug\net5.0\ref\baitap1.dll
+D:\Resource\Code\baitap1\obj\Debug\net5.0\baitap1.csproj.AssemblyReference.cache
+D:\Resource\Code\baitap1\bin\Debug\net5.0\ref\baitap1.dll
